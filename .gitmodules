@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "FreqProf"]
+	path = FreqProf
+	url = https://github.com/aibrt/freqprof
+	shallow = true
+	registered = true
